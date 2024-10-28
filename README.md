@@ -1,9 +1,9 @@
-## 👋 Hi this is Zichao 
-## 👨🏻‍💻 Study currently Computer science in Leipzig IU as a dual student
-## 📚 Here, mainly school projects are involved
-## ⌨️ Full-stack web development with Spring boot
-## 🎮 Game development with Unity
-## 👯 Looking forward to working with some interesting people 
+- 👋 Hi this is Zichao 
+- 👨🏻‍💻 Study currently Computer science in Leipzig IU as a dual student
+- 📚 Here, mainly school projects are involved
+- ⌨️ Full-stack web development with Spring boot
+- 🎮 Game development with Unity
+- 👯 Looking forward to working with some interesting people 
 
 
 <!--
